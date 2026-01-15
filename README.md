@@ -27,9 +27,9 @@ I'm a Software Engineer focusing on frontend development with aspirations to bec
 ### **Jeevni**
 
 -Jeevni is an AI-Powered web platform designed to bridge the gap between doctors and patients while addressing key challenges in the medical industry. Our mission is to provide affordable, accessible, and efficient healthcare for everyone. 🏥💙
--link-(jeevni-jnoj.onrender.com/)
+-link-(https://jeevni-jnoj.onrender.com/)
  -[Project Repository](https://github.com/Sudhanshushekhar6/Health_AI)
-
+---
 ### **Snapconnect**
 **Tech Stack**: HTML, CSS, JavaScript,MongoDb,Node.js,Express.js,Noty.js,Multer 
 - SnapConnect is a dynamic social networking platform built with Node.js, Express, MongoDB, and Passport.js
